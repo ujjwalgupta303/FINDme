@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67119601246",
+    "firebase_url": "https://findme-b7014.firebaseio.com",
+    "project_id": "findme-b7014",
+    "storage_bucket": "findme-b7014.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67119601246:android:d6f5aec75d04896d",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.findme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67119601246-apl0d3uj6kfepraseveaql2t12b3jbme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.findme",
+            "certificate_hash": "68da30a50c43eca93a845c2ccc31950fc63e3a55"
+          }
+        },
+        {
+          "client_id": "67119601246-aro1k49gsu0e7n0ffmg3glj05ecvaet3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiR_zMjTkfnCmAEcaEJeFA8y3SBMWPV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67119601246-aro1k49gsu0e7n0ffmg3glj05ecvaet3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
